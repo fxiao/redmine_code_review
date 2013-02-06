@@ -1,10 +1,10 @@
-= Redmine Code Review Plugin
+# Redmine Code Review Plugin
 
 This is a plugin for Redmine which lets you annotate source code within the repository browser.
 
 http://www.r-labs.org/wiki/r-labs/Code_Review
 
-=== Plugin installation
+### Plugin installation
 
 1. Copy the plugin directory into the plugins directory
 
@@ -17,7 +17,7 @@ http://www.r-labs.org/wiki/r-labs/Code_Review
 
 5. Go to code review setting tab in the project setting page and select tracker.
 
-=== Language contributors
+### Language contributors
 
 * de.yml - Michael Diederich, Sebastian Bernhard
 * fr.yml - Thomas M
